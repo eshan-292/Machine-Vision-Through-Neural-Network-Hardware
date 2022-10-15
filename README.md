@@ -47,6 +47,12 @@ on the FPGA board.
 components.  
 
 
+<img width="515" alt="image" src="https://user-images.githubusercontent.com/77990628/195998613-40d7c4f2-1d61-4e58-9b62-23d066b66a28.png">
+
+
+
+
+
 # Simulation Description
 
 We have used ghdl and gtkwave software to simulate the design and display the wave-
@@ -59,6 +65,23 @@ make wave to see the waveform.
 40 of design.vhd.  
 ■ To clean up unwanted files from the directory run make clean.  
 
+
+
+<img width="965" alt="image" src="https://user-images.githubusercontent.com/77990628/195998629-da5c33ea-f275-4cc0-8094-06b88d4c662f.png">
+
+
+
+
+# Configured FPGA Board
+
+<img width="812" alt="image" src="https://user-images.githubusercontent.com/77990628/195998643-c96fb04c-3c8d-4ed0-a31b-8ed58ac8337e.png">
+
+
+
+# Block Diagram
+
+
+<img width="232" alt="image" src="https://user-images.githubusercontent.com/77990628/195998665-152bd4dd-cf2e-4a23-9158-b17414f5b6a2.png">
 
 
 
