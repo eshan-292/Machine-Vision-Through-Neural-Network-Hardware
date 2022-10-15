@@ -78,10 +78,4 @@ make wave to see the waveform.
 
 
 
-# Block Diagram
-
-
-<img width="232" alt="image" src="https://user-images.githubusercontent.com/77990628/195998665-152bd4dd-cf2e-4a23-9158-b17414f5b6a2.png">
-
-
 
