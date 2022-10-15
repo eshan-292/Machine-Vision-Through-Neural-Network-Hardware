@@ -1,0 +1,32 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Tue Oct 04 14:54:08 2022
+[*]
+[dumpfile] "C:\Users\abhinav\OneDrive - IIT Delhi\Documents\GitHub\COL215P-Assignments\Stage2\wave.vcd"
+[dumpfile_mtime] "Fri Sep 30 20:34:47 2022"
+[dumpfile_size] 88447553
+[savefile] "C:\Users\abhinav\OneDrive - IIT Delhi\Documents\GitHub\COL215P-Assignments\Stage2\wave.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*0.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] dut.
+[sst_width] 197
+[signals_width] 174
+[sst_expanded] 1
+[sst_vpaned_height] 153
+@420
+dut.fsm_init.state
+@28
+dut.fsm_init.level
+@420
+dut.fsm_init.count
+dut.fsm_init.cnt_max_cnt
+@23
+dut.fsm_init.wt_read_adr[15:0]
+@22
+dut.fsm_init.bs_read_adr[15:0]
+dut.fsm_init.rom_read_adr[15:0]
+dut.fsm_init.result[3:0]
+[pattern_trace] 1
+[pattern_trace] 0
